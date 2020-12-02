@@ -163,23 +163,23 @@
                             <div class="personal-info">
                                 <div class="row">
                                     <div class="col-sm-6">
-                                        <p>Name: <span>Julian Kunzig</span></p>
+                                        <p><i class="fa fa-user-circle"></i><span>Julian Kunzig</span></p>
                                     </div>
 
                                     <div class="col-sm-6">
-                                        <p>Address: <span>Miami, FL, USA</span></p>
+                                        <p><i class="fa fa-home"></i><span>Miami, FL, USA</span></p>
                                     </div>
 
                                     <div class="col-sm-6">
-                                        <p>Phone: <span>+1 727 300-4864</span></p>
+                                        <p><i class="fa fa-phone"></i><span>+1 727 300-4864</span></p>
                                     </div>
 
                                     <div class="col-sm-6">
-                                        <p>Email: <span>julian.kunzig03@gmail.com</span></p>
+                                        <p><i class="fa fa-envelope"></i><span>julian.kunzig03@gmail.com</span></p>
                                     </div>
 
                                     <div class="col-sm-6">
-                                        <p>Skype: <span>live:.cid.94b46c5617f7cdd9</span></p>
+                                        <p><i class="fa fa-skype"></i><span>live:.cid.94b46c5617f7cdd9</span></p>
                                     </div>
 
                                 </div>

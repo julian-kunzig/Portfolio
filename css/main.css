@@ -585,7 +585,7 @@ h6 {
 }
 
 .home .overlay {
-    background-color: rgba(43, 42, 47, .7);
+    background-color: rgba(43, 42, 47, .4);
     position: absolute;
     top: 0;
     left: 0;
@@ -737,6 +737,10 @@ h6 {
     margin-bottom: 30px;
     margin-top: 30px;
 }
+.about-me .about-info .personal-info i {
+    font-size: 20px;
+}
+
 .about-me .about-info .personal-info .info-bg {
     position: absolute;
     top: 0;
@@ -755,7 +759,7 @@ h6 {
     font-weight: 600;
 }
 
-.about-me .about-info .personal-info p:before {
+/* .about-me .about-info .personal-info p:before {
     content: '';
     display: block;
     position: absolute;
@@ -768,7 +772,7 @@ h6 {
     background: #f5865d;
     box-shadow: 0 0 10px rgba(0, 0, 0, .2);
     box-sizing: content-box;
-}
+} */
 
 .about-me .about-info .personal-info p span {
     color: #ffffff;
@@ -801,7 +805,7 @@ h6 {
 
 .skills .skills-content h3 i {
     display: block;
-    color: #9b9a9c;
+    color: #ffffff;
     font-size: 20px;
     margin-bottom: 8px;
 }
