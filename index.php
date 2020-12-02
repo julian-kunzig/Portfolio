@@ -96,7 +96,7 @@
                         <li><a href="#" data-value="#services">Services</a></li>
                         <li><a href="#" data-value="#resume">Resume</a></li>
                         <li><a href="#" data-value="#portfolio">Portfolio</a></li>
-                        <li><a href="#" data-value="#blog">Blog</a></li>
+                        <!-- <li><a href="#" data-value="#blog">Blog</a></li> -->
                         <li><a href="#" data-value="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -244,6 +244,90 @@
                                             Professional Skills
                                         </h3>
                                         <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>PHP</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Laravel</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="80" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Symfony</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Wordpress</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Shopify</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="70" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Java</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Node.js</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>React.js</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Vue.js</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Angular</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>React Native</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="95" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>JavaScript</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
                                             <span class="percent" data-from="0" data-to="95" data-speed="1100" data-refresh-interval="50">0</span>
                                             <h4>Html5 &amp; Css3</h4>
                                             <div class="progress">
@@ -252,16 +336,16 @@
                                         </div>
                                         <div class="progress-container">
                                             <span class="percent" data-from="0" data-to="75" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>JavaScript</h4>
+                                            <h4>AWS</h4>
                                             <div class="progress">
                                                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
                                         <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="89" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Php</h4>
+                                            <span class="percent" data-from="0" data-to="70" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Hubspot</h4>
                                             <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -291,8 +375,8 @@
                             <div class="service-icon">
                                 <i class="fa fa-pencil fa-lg"></i>
                             </div>
-                            <h4>Creative Design</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusm.</p>
+                            <h4>Creative Idea</h4>
+                            <p>Creative visualization, critical thinking, inductive and deductive reasoning.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -301,7 +385,7 @@
                                 <i class="fa fa-flag fa-lg"></i>
                             </div>
                             <h4>Branding</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusm.</p>
+                            <p>Help people differentiate between competition and quickly judge quality.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -310,7 +394,7 @@
                                 <i class="fa fa-laptop fa-lg"></i>
                             </div>
                             <h4>User Interface</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusm.</p>
+                            <p>Aim to create interfaces which users find easy to use and pleasurable.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -319,7 +403,7 @@
                                 <i class="fa fa-briefcase fa-lg"></i>
                             </div>
                             <h4>User Experience</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusm.</p>
+                            <p>Focuse on having a deep understanding of users, what they need, what they value, their abilities, and also their limitations. </p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -328,7 +412,7 @@
                                 <i class="fa fa-code fa-lg"></i>
                             </div>
                             <h4>Clean Code</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusm.</p>
+                            <p>Keep It Simple(KISS), Don’t Repeat Yourself(DRY) and Delete what is not needed(YAGNI)</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -336,8 +420,8 @@
                             <div class="service-icon">
                                 <i class="fa fa-support fa-lg"></i>
                             </div>
-                            <h4>Fast Support</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusm.</p>
+                            <h4>Ongoing Support</h4>
+                            <p>Ongoing support for the enhancement, maintenance, improvement and code-refactoring if required and unavoidable.</p>
                         </div>
                     </div>
                 </div>
@@ -353,7 +437,7 @@
                 <div class="main-title">
                     <h2>My Resume
                         <span class="holder"></span>
-                        <span> 04.</span>
+                        <span> 04.1</span>
                     </h2>
                 </div>
                 <div class="row">
@@ -362,37 +446,65 @@
                             <ul>
                                 <li>
                                     <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
-                                        <span class="date">2017 - 2019</span>
-                                        <h4>Freelancer</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                        <span class="date">Full Stack Software Engineer (05/2012 - Now)</span>
+                                        <h4>Self Employed</h4>
+                                        <p>- Extreme passion for web and mobile development primarily with open with web and mobile development.</p>
+                                        <p>- Fast learning skills and effective information acquisition strategies</p>
+                                        <p>- Ability to create innovative ideas, marketing strategies and simplistic usability to target end users.</p>
+                                        <p>- Creative visualization, critical thinking, inductive and deductive reasoning.</p>
+                                        <p>- Collaborative coordination and time management skills.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="timeline-content wow fadeInRight" data-wow-duration=".8s" data-wow-offset="100">
-                                        <span class="date">2015 - 2017</span>
-                                        <h4>Company Name</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                        <span class="date">Solution Architect and Developer (02/2019 - 12/2019)</span>
+                                        <h4>+Humango Consultores S.A.S</h4>
+                                        <p>- Keen to leverage leadership and managerial expertise as a TL.</p>
+                                        <p>- Executed a lean training project that led to cutting costs by up to 40% in 6 months.</p>
+                                        <p>- Boosted user experience scores by 55% over company wide previous best.</p>
+                                        <p>- Helped raise a few rounds of investment.</p>
+                                        <p>Skills: PHP, Laravel, Symofny, Java, React.js</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
-                                        <span class="date">2014 - 2015</span>
-                                        <h4>Front-End Developer</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                        <span class="date">Lead Developer (01/2017 - 02/2018)</span>
+                                        <h4>MINQA</h4>
+                                        <p>- Full stack web developer responsible for end-to-end web app development and creative cloud engineering.</p>
+                                        <p>- Developed beautiful interfaces with modern Javascript Frameworks & varioius cutting-edge (at the time) technologies.</p>
+                                        <p>- Prototyped an average of 5 new product features.</p>
+                                        <p>- Build the data pipeline dashboard and built the service.</p>
+                                        <p>Skills: Node.js, Python, React.js, Vue.js, Angular</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="timeline-content wow fadeInRight" data-wow-duration=".8s" data-wow-offset="100">
-                                        <span class="date">2013 - 2014</span>
-                                        <h4>Web Developer</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                        <span class="date">Senior Web Developer (03/2016 - 12/2016)</span>
+                                        <h4>GENIAR</h4>
+                                        <p>- Drove best practice implementation for 22 employees across multiple departments.</p>
+                                        <p>- Published 8 social media apps to App Store and Google Store.</p>
+                                        <p>- Boosted user experience scores by 55% over company</p>
+                                        <p>- Completed building home widget to check fasting status on the home screen of the phone accordng to the user's feedback.</p>
+                                        <p>Skills: Angular, React.js, React Native, PHP, CodeIgniter</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
-                                        <span class="date">2011 - 2013</span>
-                                        <h4>Stanford University</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                        <span class="date">Web Developer (11/2014 - 03/2016)</span>
+                                        <h4>SETI S.A.S</h4>
+                                        <p>- Capacity to work under pressure while observing high quality standards.</p>
+                                        <p>- Accelerated establish a successful business with clients from world wide.</p>
+                                        <p>- Raised donations by 38%.</p>
+                                        <p>Skills: PHP, Wordpress, Javascript, MysQL, HTML, CSS</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
+                                        <span class="date">Front End Developer (04/2014 - 08/2014)</span>
+                                        <h4>STF Froup S.A</h4>
+                                        <p>- Research, design and implement scalable web and mobile applications.</p>
+                                        <p>- Direct software design and development while remaining forcused on client needs.</p>
+                                        <p>Developed responsive and mobile friendly websites.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -403,6 +515,43 @@
         </section>
         
         <!-- ========== End Resume ========== -->
+
+        <!-- ========== Start Education ========== -->
+
+        <section class="resume" id="education">
+            <div class="container">
+                <div class="main-title">
+                    <h2>My Education
+                        <span class="holder"></span>
+                        <span> 04.2</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="timeline">
+                            <ul>
+                                <li>
+                                    <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
+                                        <span class="date">2014 - 2016</span>
+                                        <h4>ICESI University</h4>
+                                        <p>Bachelor's Degree, Computer Engineering</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-content wow fadeInRight" data-wow-duration=".8s" data-wow-offset="100">
+                                        <span class="date">1998 - 2003</span>
+                                        <h4>University of San Buenaventura</h4>
+                                        <p>Bachelor's Degree, Computer Science</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ========== End Education ========== -->
         
         <!-- ========== Start Portfolio ========== -->
         
@@ -417,75 +566,198 @@
                 <div class="filter-menu">
                     <ul id="control" class="list-filter list-unstyled">
                         <li class="active" data-filter="all">All</li>
-                        <li data-filter="1">Web Design</li>
-                        <li data-filter="2">Graphic Design</li>
-                        <li data-filter="3">Branding</li>
+                        <li data-filter="1">Web Application</li>
+                        <li data-filter="2">Customer Portal</li>
+                        <li data-filter="3">Ecommerce</li>
+                        <li data-filter="4">Data Visualization</li>
+                        <li data-filter="5">Mobile Development</li>
                     </ul>
                 </div>
                 <div class="portfolio-content">
                     <div id="filtr-container" class="row">
                         <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
                             <div class="item">
-                                <img class="img-responsive" src="images/portfolio/item-1.jpg" alt="">
-                                <a class="overlay" href="images/portfolio/item-1.jpg">
+                                <img class="img-responsive" src="images/portfolio/item-16.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-16.png">
                                     <span class="icon-img"><i class="fa fa-image"></i></span>
                                     <div class="item-title">
-                                        <h4>Web Design</h4>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 filtr-item" data-category="2" data-sort="value">
-                            <div class="item">
-                                <img class="img-responsive" src="images/portfolio/item-2.jpg" alt="">
-                                <a class="overlay" href="images/portfolio/item-2.jpg">
-                                    <span class="icon-img"><i class="fa fa-image"></i></span>
-                                    <div class="item-title">
-                                        <h4>Graphic Design</h4>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 filtr-item" data-category="3" data-sort="value">
-                            <div class="item">
-                                <img class="img-responsive" src="images/portfolio/item-3.jpg" alt="">
-                                <a class="overlay" href="images/portfolio/item-3.jpg">
-                                    <span class="icon-img"><i class="fa fa-image"></i></span>
-                                    <div class="item-title">
-                                        <h4>Branding</h4>
+                                        <h4>Web Application</h4>
                                     </div>
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
                             <div class="item">
-                                <img class="img-responsive" src="images/portfolio/item-4.jpg" alt="">
-                                <a class="overlay" href="images/portfolio/item-4.jpg">
+                                <img class="img-responsive" src="images/portfolio/item-17.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-17.png">
                                     <span class="icon-img"><i class="fa fa-image"></i></span>
                                     <div class="item-title">
-                                        <h4>Web Design</h4>
+                                        <h4>Web Application</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-19.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-19.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Web Application</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-20.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-20.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Web Application</h4>
                                     </div>
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 filtr-item" data-category="2" data-sort="value">
                             <div class="item">
-                                <img class="img-responsive" src="images/portfolio/item-5.jpg" alt="">
-                                <a class="overlay" href="images/portfolio/item-5.jpg">
+                                <img class="img-responsive" src="images/portfolio/item-23.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-23.png">
                                     <span class="icon-img"><i class="fa fa-image"></i></span>
                                     <div class="item-title">
-                                        <h4>Graphic Design</h4>
+                                        <h4>Web Application</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="2" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-21.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-21.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Customer Portal</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="2" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-18.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-18.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Customer Portal</h4>
                                     </div>
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 filtr-item" data-category="3" data-sort="value">
                             <div class="item">
-                                <img class="img-responsive" src="images/portfolio/item-6.jpg" alt="">
-                                <a class="overlay" href="images/portfolio/item-6.jpg">
+                                <img class="img-responsive" src="images/portfolio/item-9.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-9.png">
                                     <span class="icon-img"><i class="fa fa-image"></i></span>
                                     <div class="item-title">
-                                        <h4>Branding</h4>
+                                        <h4>Ecommerce</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="3" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-10.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-10.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Ecommerce</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="3" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-22.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-22.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Ecommerce</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="4" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-7.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-7.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Data Visualization</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="4" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-8.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-8.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Ecommerce</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="4" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-11.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-11.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Ecommerce</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-12.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-12.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Mobile Development</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-13.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-13.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Mobile Development</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-14.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-14.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Mobile Development</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/item-15.png" alt="">
+                                <a class="overlay" href="images/portfolio/item-15.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>Mobile Development</h4>
                                     </div>
                                 </a>
                             </div>
@@ -510,25 +782,25 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="554" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="50" data-speed="2500"></span>
                             <h4>Projects Done</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="548" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="15" data-speed="2500"></span>
                             <h4>Happy Clients</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="860" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="15000" data-speed="2500"></span>
                             <h4>Hours Of Work</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="3200" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="30" data-speed="2500"></span>
                             <h4>Awards Received</h4>
                         </div>
                     </div>
@@ -553,57 +825,55 @@
                         <!-- New Item -->
                         <div class="testimonial-box">
                             <div class="client-pic">
-                                <img src="images/testimonials/1.jpg" alt="client">
+                                <img src="images/testimonials/ryan pool.jpeg" alt="client">
                             </div>
                             <div class="client-details">
-                                <h6> Joe Paulian </h6>
-                                <span>Web Developer</span>
+                                <h6> Ryan Pool </h6>
+                                <span>Spokane</span>
                             </div>
                             <div class="clearfix"></div>
                             <div class="description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                <p>Julian did great work building a interactive map for us. He was very attentive, and I was impressed with how clean the code was.</p>
                             </div>
                         </div>
                         <!-- New Item -->
+                        <div class="testimonial-box">
+                            <div class="client-pic">
+                                <img src="images/testimonials/suresh kavan.jpeg" alt="client">
+                            </div>
+                            <div class="client-details">
+                                <h6> Suresh Kavan </h6>
+                                <span>Cos Cob</span>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="description">
+                                <p>Outstanding, high quality, high speed work. Highly Recommended.</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-box">
+                            <div class="client-pic">
+                                <img src="images/testimonials/walter palisca.jpeg" alt="client">
+                            </div>
+                            <div class="client-details">
+                                <h6> Walter Palisca </h6>
+                                <span>Newmarket</span>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="description">
+                                <p>Julian was very effective at meeting and exceeding my requirements, as well I found him very plesant to communicate with and he meet all my timelines.</p>
+                            </div>
+                        </div>
                         <div class="testimonial-box">
                             <div class="client-pic">
                                 <img src="images/testimonials/2.jpg" alt="client">
                             </div>
                             <div class="client-details">
-                                <h6> Silvia Hatmun </h6>
-                                <span>SEO Manager</span>
+                                <h6> Anne Marie Grunberg </h6>
+                                <span>Greenbelt</span>
                             </div>
                             <div class="clearfix"></div>
                             <div class="description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                            </div>
-                        </div>
-                        <!-- New Item -->
-                        <div class="testimonial-box">
-                            <div class="client-pic">
-                                <img src="images/testimonials/3.jpg" alt="client">
-                            </div>
-                            <div class="client-details">
-                                <h6> Alexander Smith </h6>
-                                <span>Graphic Designer</span>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                            </div>
-                        </div>
-                        <!-- New Item -->
-                        <div class="testimonial-box">
-                            <div class="client-pic">
-                                <img src="images/testimonials/4.jpg" alt="client">
-                            </div>
-                            <div class="client-details">
-                                <h6> Cristina Jordan </h6>
-                                <span>Web Developer</span>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                <p>Julian is one of the rare developers who is very attentive, brilliant in his coding skills, and who is very steady in his work product. He is one of the best developers I have ever hired. Each morning, before beginning the day, he asks if there has been a change of priority to ensure that he is meeting my needs. With some developers there is a question as to how efficient the developer is actually being with their time. I have never had an issue with Julian...</p>
                             </div>
                         </div>
                     </div>
@@ -615,7 +885,7 @@
         
         <!-- ========== Start Blog ========== -->
         
-        <section class="blog" id="blog">
+        <!-- <section class="blog" id="blog">
             <div class="container">
                 <div class="main-title">
                     <h2>My Blog
@@ -624,17 +894,14 @@
                     </h2>
                 </div>
                 <div class="row">
-                    <!-- New Item -->
                     <div class="col-md-4">
                         <div class="post">
-                            <!-- Post Image -->
                             <div class="post-img">
                                 <img src="images/blog/1.jpg" class="img-responsive" alt="">
                                 <div class="post-category">
                                     <a href="#">Design</a>
                                 </div>
                             </div>
-                            <!-- Post Content -->
                             <div class="post-content">
                                 <div class="post-title">
                                     <a href="#"><h4>Post Title Goes Here</h4></a>
@@ -656,17 +923,14 @@
                             </div>
                         </div>
                     </div>
-                    <!-- New Item -->
                     <div class="col-md-4">
                         <div class="post">
-                            <!-- Post Image -->
                             <div class="post-img">
                                 <img src="images/blog/2.jpg" class="img-responsive" alt="">
                                 <div class="post-category">
                                     <a href="#">Logo</a>
                                 </div>
                             </div>
-                            <!-- Post Content -->
                             <div class="post-content">
                                 <div class="post-title">
                                     <a href="#"><h4>Post Title Goes Here</h4></a>
@@ -688,17 +952,14 @@
                             </div>
                         </div>
                     </div>
-                    <!-- New Item -->
                     <div class="col-md-4">
                         <div class="post">
-                            <!-- Post Image -->
                             <div class="post-img">
                                 <img src="images/blog/3.jpg" class="img-responsive" alt="">
                                 <div class="post-category">
                                     <a href="#">Branding</a>
                                 </div>
                             </div>
-                            <!-- Post Content -->
                             <div class="post-content">
                                 <div class="post-title">
                                     <a href="#"><h4>Post Title Goes Here</h4></a>
@@ -722,7 +983,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         
         <!-- ========== End Blog ========== -->
         
@@ -750,7 +1011,7 @@
                                         </div>
                                     </div>
                                     <div class="content-box">
-                                        <p>NewYork, USA</p>
+                                        <p>Miami, FL</p>
                                     </div>
                                     <div class="number-box"><span>01.</span></div>
                                 </div>
@@ -766,7 +1027,7 @@
                                         </div>
                                     </div>
                                     <div class="content-box">
-                                        <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="eaa08285848e858faaa3848c8599c4898587">[email&#160;protected]</a></p>
+                                        <p>julian.kunzig03@gmail.com</p>
                                     </div>
                                     <div class="number-box"><span>02.</span></div>
                                 </div>
@@ -782,7 +1043,7 @@
                                         </div>
                                     </div>
                                     <div class="content-box">
-                                        <p>+1 212 507-6415</p>
+                                        <p>+1 727 300-4864</p>
                                     </div>
                                     <div class="number-box"><span>03.</span></div>
                                 </div>
@@ -830,28 +1091,38 @@
                 <a class="logo" href="#">Julian<span></span></a>
                 <ul class="footer-social-icons list-unstyled">
                     <li>
-                        <a href="#">
+                        <a href="https://m.facebook.com/julian.kunzig">
                             <i class="fa fa-facebook"></i>
                         </a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a href="#">
                             <i class="fa fa-twitter"></i>
                         </a>
-                    </li>
-                    <li>
+                    </li> -->
+                    <!-- <li>
                         <a href="#">
                             <i class="fa fa-google-plus"></i>
                         </a>
-                    </li>
+                    </li> -->
                     <li>
-                        <a href="#">
+                        <a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-kunzig-b76230a1/">
                             <i class="fa fa-linkedin"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
-                            <i class="fa fa-behance"></i>
+                        <a href="https://instagram.com/@_jakf_">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/julian-kunzig">
+                            <i class="fa fa-github"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://stackoverflow.com/users/14245297/julian-kunzig">
+                            <i class="fa fa-stack-overflow"></i>
                         </a>
                     </li>
                 </ul>
