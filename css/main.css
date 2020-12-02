@@ -148,8 +148,8 @@ h6 {
 .main-title span {
     position: absolute;
     bottom: 2px;
-    right: -125px;
-    color: #46454a;
+    right: -130px;
+    color: #ffffff;
     font-size: 17px;
     font-weight: 800;
     font-family: 'Montserrat', sans-serif;
@@ -724,7 +724,6 @@ h6 {
     color: #ffffff;
     line-height: 1.8;
     font-weight: 400;
-    margin-bottom: 30px;
 }
 
 .about-me .about-info p:first-of-type {
@@ -736,6 +735,7 @@ h6 {
     background-color: #36353b;
     padding: 30px 20px 18px;
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 .about-me .about-info .personal-info .info-bg {
     position: absolute;
@@ -771,7 +771,7 @@ h6 {
 }
 
 .about-me .about-info .personal-info p span {
-    color: #9b9a9c;
+    color: #ffffff;
     font-weight: 400;
     margin-left: 5px;
 }
@@ -790,7 +790,7 @@ h6 {
 }
 
 .skills .skills-content h3 {
-    color: #ccc9c9;
+    color: #ffffff;
     text-transform: capitalize;
     margin-top: 10px;
     margin-bottom: 25px;
@@ -865,7 +865,7 @@ h6 {
 .skills .progress-container h4 {
     margin: 0 0 10px 0;
     font-size: 17px;
-    color: #9b9a9c; 
+    color: #ffffff; 
     letter-spacing: 1px;
     font-family: 'Open Sans', sans-serif;
 }
@@ -1356,7 +1356,7 @@ h6 {
 }
 
 .testimonials .testimonial-box .description p {
-    color: #9b9a9c;
+    color: #ffffff;
     font-size: 14px;
     line-height: 1.8;
     font-weight: 400;
@@ -1529,7 +1529,7 @@ h6 {
     line-height: 70px;
     background: #343338;
     border: 2px dotted #434247;
-    color: rgba(185, 185, 185, .1);
+    color: rgba(185, 185, 185, .5);
     border-radius: 50%;
     font-weight: 600;
     font-family: 'Montserrat', sans-serif;
@@ -1669,7 +1669,7 @@ h6 {
 #portfolio .img-responsive {
     width: 100%;
     /* max-height: 190px; */
-    height: 270px;
+    height: 300px;
 }
 
 /* --------------------------------------

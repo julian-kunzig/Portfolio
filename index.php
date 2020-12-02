@@ -115,7 +115,7 @@
                             <h1>Hi, I’m  Julian Kunzig</h1>
                             <h3><span>Senior Web Developer</span><span>Mobile Developer</span></h3>
                             <div class="my-btn">
-                                <a href="#" class="main-btn">Hire Me</a>
+                                <a href="https://angel.co/u/julian-kunzig" target="_blank" class="main-btn">Hire Me</a>
                             </div>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
                                 </div>
                                 <span class="info-bg"><i class="fa fa-address-card"></i></span>
                             </div>
-                            <a href="#" class="main-btn">Download CV</a>
+                            <a href="https://www.dropbox.com/s/4dsgf8gv1vz1lrd/Julian%20Kunzig.pdf?dl=0" target="_blank" class="main-btn">Download CV</a>
                         </div>
                     </div> 
                 </div>
