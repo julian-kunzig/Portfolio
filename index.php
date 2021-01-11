@@ -448,7 +448,7 @@
                                     <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
                                         <span class="date">Full Stack Software Engineer (05/2012 - Now)</span>
                                         <h4>Self Employed</h4>
-                                        <p>- Extreme passion for web and mobile development primarily with open with web and mobile development.</p>
+                                        <p>- Extreme passion for web and mobile development.</p>
                                         <p>- Fast learning skills and effective information acquisition strategies</p>
                                         <p>- Ability to create innovative ideas, marketing strategies and simplistic usability to target end users.</p>
                                         <p>- Creative visualization, critical thinking, inductive and deductive reasoning.</p>
@@ -459,7 +459,7 @@
                                     <div class="timeline-content wow fadeInRight" data-wow-duration=".8s" data-wow-offset="100">
                                         <span class="date">Solution Architect and Developer (02/2019 - 12/2019)</span>
                                         <h4>+Humango Consultores S.A.S</h4>
-                                        <p>- Keen to leverage leadership and managerial expertise as a TL.</p>
+                                        <p>- Leveraged leadership and managerial expertise as a TL.</p>
                                         <p>- Executed a lean training project that led to cutting costs by up to 40% in 6 months.</p>
                                         <p>- Boosted user experience scores by 55% over company wide previous best.</p>
                                         <p>- Helped raise a few rounds of investment.</p>
@@ -493,7 +493,7 @@
                                         <span class="date">Web Developer (11/2014 - 03/2016)</span>
                                         <h4>SETI S.A.S</h4>
                                         <p>- Capacity to work under pressure while observing high quality standards.</p>
-                                        <p>- Accelerated establish a successful business with clients from world wide.</p>
+                                        <p>- Reduced development time for clients world-wide.</p>
                                         <p>- Raised donations by 38%.</p>
                                         <p>Skills: PHP, Wordpress, Javascript, MysQL, HTML, CSS</p>
                                     </div>
@@ -541,7 +541,7 @@
                                     <div class="timeline-content wow fadeInRight" data-wow-duration=".8s" data-wow-offset="100">
                                         <span class="date">1998 - 2003</span>
                                         <h4>University of San Buenaventura</h4>
-                                        <p>Bachelor's Degree, Computer Science</p>
+                                        <p>Master's Degree, Computer Science</p>
                                     </div>
                                 </li>
                             </ul>
@@ -794,13 +794,13 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="15000" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="12000" data-speed="2500"></span>
                             <h4>Hours Of Work</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="30" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="3" data-speed="2500"></span>
                             <h4>Awards Received</h4>
                         </div>
                     </div>
@@ -865,7 +865,7 @@
                         </div>
                         <div class="testimonial-box">
                             <div class="client-pic">
-                                <img src="images/testimonials/2.jpg" alt="client">
+                                <img src="images/testimonials/anne.png" alt="client">
                             </div>
                             <div class="client-details">
                                 <h6> Anne Marie Grunberg </h6>
@@ -1127,7 +1127,7 @@
                     </li>
                 </ul>
                 <div class="copyright">
-                    <p>All Right Reserved &copy; 2020 <a href="#" target="_blank">Julian Kunzig</a></p>
+                    <p>All Right Reserved &copy; 2021 <a href="#" target="_blank">Julian Kunzig</a></p>
                 </div>
             </div>
         </footer>
