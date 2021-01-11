@@ -782,13 +782,13 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="50" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="50" data-speed="1000"></span>
                             <h4>Projects Done</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="15" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="15" data-speed="500"></span>
                             <h4>Happy Clients</h4>
                         </div>
                     </div>
@@ -800,7 +800,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="3" data-speed="2500"></span>
+                            <span class="fact-number" data-from="0" data-to="3" data-speed="1000"></span>
                             <h4>Awards Received</h4>
                         </div>
                     </div>
