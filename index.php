@@ -534,14 +534,14 @@
                                     <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
                                         <span class="date">2014 - 2016</span>
                                         <h4>ICESI University</h4>
-                                        <p>Bachelor's Degree, Computer Engineering</p>
+                                        <p>Master's Degree, Computer Engineering</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="timeline-content wow fadeInRight" data-wow-duration=".8s" data-wow-offset="100">
                                         <span class="date">1998 - 2003</span>
                                         <h4>University of San Buenaventura</h4>
-                                        <p>Master's Degree, Computer Science</p>
+                                        <p>Bachelor's Degree, Computer Science</p>
                                     </div>
                                 </li>
                             </ul>
