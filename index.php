@@ -185,7 +185,7 @@
                                 </div>
                                 <span class="info-bg"><i class="fa fa-address-card"></i></span>
                             </div>
-                            <a href="https://www.dropbox.com/s/4dsgf8gv1vz1lrd/Julian%20Kunzig.pdf?dl=0" target="_blank" class="main-btn">Download CV</a>
+                            <a href="https://www.dropbox.com/s/oqyxjm45fucvsjo/Julian%20Kunzig.pdf?dl=0" target="_blank" class="main-btn">Download CV</a>
                         </div>
                     </div> 
                 </div>
