@@ -286,6 +286,13 @@
                                             </div>
                                         </div>
                                         <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="80" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>AEM</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
                                             <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
                                             <h4>Node.js</h4>
                                             <div class="progress">
@@ -321,10 +328,24 @@
                                             </div>
                                         </div>
                                         <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Ionic</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
                                             <span class="percent" data-from="0" data-to="95" data-speed="1100" data-refresh-interval="50">0</span>
                                             <h4>JavaScript</h4>
                                             <div class="progress">
                                                 <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Typescript</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
                                         <div class="progress-container">
