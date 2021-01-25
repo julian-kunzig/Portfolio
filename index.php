@@ -54,7 +54,7 @@
 		
 		<!-- ========== Start Color Switcher ========== -->
         
-        <div class="switch-button"><i class="fa fa-cog fa-spin"></i></div>
+        <div class="switch-button d-none"><i class="fa fa-cog fa-spin"></i></div>
         <div class="switched-styles">
             <h4>Color Switcher</h4>
             <ul class="list-unstyled">
@@ -208,36 +208,7 @@
                     <div class="col-md-10 col-md-offset-1">
                         <div class="skills-content">
                             <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="personal-skills">
-                                        <h3>
-                                            <i class="fa fa-vcard"></i>
-                                            Personal Skills
-                                        </h3>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Communication</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Teamwork</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Self-motivation</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
+                                <div class="col-sm-12">
                                     <div class="professional-skills">
                                         <h3>
                                             <i class="fa fa-tasks"></i>
@@ -367,6 +338,39 @@
                                             <h4>Hubspot</h4>
                                             <div class="progress">
                                                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skills-content mt-5">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="personal-skills">
+                                        <h3>
+                                            <i class="fa fa-vcard"></i>
+                                            Personal Skills
+                                        </h3>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Communication</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Teamwork</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <div class="progress-container">
+                                            <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
+                                            <h4>Self-motivation</h4>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
                                     </div>
