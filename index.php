@@ -215,24 +215,10 @@
                                             Professional Skills
                                         </h3>
                                         <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>PHP</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
                                             <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
                                             <h4>Laravel</h4>
                                             <div class="progress">
                                                 <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="80" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Symfony</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
                                         <div class="progress-container">
@@ -247,20 +233,6 @@
                                             <h4>Shopify</h4>
                                             <div class="progress">
                                                 <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="70" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Java</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="80" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>AEM</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
                                         <div class="progress-container">
@@ -303,27 +275,6 @@
                                             <h4>Ionic</h4>
                                             <div class="progress">
                                                 <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="95" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>JavaScript</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="90" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Typescript</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="progress-container">
-                                            <span class="percent" data-from="0" data-to="95" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Html5 &amp; Css3</h4>
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                         </div>
                                         <div class="progress-container">
@@ -600,7 +551,7 @@
                 </div>
                 <div class="portfolio-content">
                     <div id="filtr-container" class="row">
-                        <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
+                        <!-- <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
                             <div class="item">
                                 <img class="img-responsive" src="images/portfolio/item-16.png" alt="">
                                 <a class="overlay" href="images/portfolio/item-16.png">
@@ -786,6 +737,94 @@
                                     </div>
                                 </a>
                             </div>
+                        </div> -->
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/02.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/02.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>WEPAIR</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="1" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/07.png" alt="">
+                                <a class="overlay" href="images/portfolio/07.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>1851 FRANCHISE</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="2" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/08.png" alt="">
+                                <a class="overlay" href="images/portfolio/08.png">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>CELLARPASS</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="3" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/05.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/05.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>DODOCASE</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="3" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/06.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/06.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>VRAI</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="4" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/01.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/01.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>MODULAR</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/03.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/03.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>WISH APP</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/04.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/04.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>POSSIBLE APP</h4>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -898,7 +937,8 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="description">
-                                <p>Julian is one of the rare developers who is very attentive, brilliant in his coding skills, and who is very steady in his work product. He is one of the best developers I have ever hired. Each morning, before beginning the day, he asks if there has been a change of priority to ensure that he is meeting my needs. With some developers there is a question as to how efficient the developer is actually being with their time. I have never had an issue with Julian...</p>
+                                <p>Julian is one of the rare developers who is very attentive, brilliant in his coding skills, and who is very steady in his work product. He is one of the best developers I have ever hired.</p>
+                                <p class="mt-0">...</p>
                             </div>
                         </div>
                     </div>
