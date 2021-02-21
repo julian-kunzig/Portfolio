@@ -817,6 +817,39 @@
                         </div>
                         <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
                             <div class="item">
+                                <img class="img-responsive" src="images/portfolio/sok-it-thumb.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/sok-it-thumb.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>SOK IT</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/zillamunch1.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/zillamunch1.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>ZILLAMUNCH</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
+                                <img class="img-responsive" src="images/portfolio/stryve-thumb.jpg" alt="">
+                                <a class="overlay" href="images/portfolio/stryve-thumb.jpg">
+                                    <span class="icon-img"><i class="fa fa-image"></i></span>
+                                    <div class="item-title">
+                                        <h4>STRYVE</h4>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 filtr-item" data-category="5" data-sort="value">
+                            <div class="item">
                                 <img class="img-responsive" src="images/portfolio/04.jpg" alt="">
                                 <a class="overlay" href="images/portfolio/04.jpg">
                                     <span class="icon-img"><i class="fa fa-image"></i></span>
