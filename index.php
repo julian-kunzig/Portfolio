@@ -476,7 +476,7 @@
                                 </li>
                                 <li>
                                     <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
-                                        <span class="date">Front End Developer (04/2014 - 08/2014)</span>
+                                        <span class="date">Front End Developer (02/2014 - 08/2014)</span>
                                         <h4>STF Froup S.A</h4>
                                         <p>- Research, design and implement scalable web and mobile applications.</p>
                                         <p>- Direct software design and development while remaining forcused on client needs.</p>
