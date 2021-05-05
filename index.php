@@ -185,7 +185,7 @@
                                 </div>
                                 <span class="info-bg"><i class="fa fa-address-card"></i></span>
                             </div>
-                            <a href="https://www.dropbox.com/s/oqyxjm45fucvsjo/Julian%20Kunzig.pdf?dl=0" target="_blank" class="main-btn">Download CV</a>
+                            <a href="https://www.dropbox.com/s/fo03pno1xy6216i/Julian%20Kunzig.pdf?dl=0" target="_blank" class="main-btn">Download CV</a>
                         </div>
                     </div> 
                 </div>
@@ -223,7 +223,7 @@
                                         </div>
                                         <div class="progress-container">
                                             <span class="percent" data-from="0" data-to="85" data-speed="1100" data-refresh-interval="50">0</span>
-                                            <h4>Wordpress</h4>
+                                            <h4>Java</h4>
                                             <div class="progress">
                                                 <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
@@ -510,14 +510,14 @@
                                     <div class="timeline-content wow fadeInLeft" data-wow-duration=".8s" data-wow-offset="100">
                                         <span class="date">2014 - 2016</span>
                                         <h4>ICESI University</h4>
-                                        <p>Master's Degree, Computer Engineering</p>
+                                        <p>Master of Information Technology, Computer and Telecommunication</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="timeline-content wow fadeInRight" data-wow-duration=".8s" data-wow-offset="100">
                                         <span class="date">1998 - 2003</span>
                                         <h4>University of San Buenaventura</h4>
-                                        <p>Bachelor's Degree, Computer Science</p>
+                                        <p>Bachedlor of Engineering, System Engneering</p>
                                     </div>
                                 </li>
                             </ul>
@@ -897,7 +897,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="fact-item">
-                            <span class="fact-number" data-from="0" data-to="3" data-speed="1000"></span>
+                            <span class="fact-number" data-from="0" data-to="1" data-speed="1000"></span>
                             <h4>Awards Received</h4>
                         </div>
                     </div>
