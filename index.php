@@ -185,7 +185,7 @@
                                 </div>
                                 <span class="info-bg"><i class="fa fa-address-card"></i></span>
                             </div>
-                            <a href="https://www.dropbox.com/s/fo03pno1xy6216i/Julian%20Kunzig.pdf?dl=0" target="_blank" class="main-btn">Download CV</a>
+                            <a href="https://www.dropbox.com/s/obckih95itbztnh/Julian%20Kunzig.pdf?dl=0" target="_blank" class="main-btn">Download CV</a>
                         </div>
                     </div> 
                 </div>
@@ -1141,7 +1141,7 @@
                                         </div>
                                     </div>
                                     <div class="content-box">
-                                        <p>+1 727 300-4864</p>
+                                        <p>+1 323 438-6722</p>
                                     </div>
                                     <div class="number-box"><span>03.</span></div>
                                 </div>
