@@ -171,7 +171,7 @@
                                     </div>
 
                                     <div class="col-sm-6">
-                                        <p><i class="fa fa-phone"></i><span>+1 727 300-4864</span></p>
+                                        <p><i class="fa fa-phone"></i><span>+1 323 438-6722</span></p>
                                     </div>
 
                                     <div class="col-sm-6">
